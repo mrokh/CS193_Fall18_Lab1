@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Mona Rokh's first CS193 Lab!
+Click [here!](https://youtu.be/dQw4w9WgXcQ) 
+#Favorite Things about Purdue CS193
+-designed by students!
+-help with tools used in the future! 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
